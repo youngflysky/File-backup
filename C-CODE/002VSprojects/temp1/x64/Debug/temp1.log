@@ -1,0 +1,6 @@
+﻿  main.cpp
+F:\github\project\temp1\main.cpp(14,36): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+F:\github\project\temp1\main.cpp(14,67): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+F:\github\project\temp1\main.cpp(7,16): error C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+F:\github\project\temp1\main.cpp(8,16): error C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+F:\github\project\temp1\main.cpp(9,16): error C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
